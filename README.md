@@ -33,5 +33,5 @@ Open ALB DNS in browser: http://Web-Server-ALB-748108350.ap-south-1.elb.amazonaw
 
 ## Author
 
-Made with ❤️ by [Naman Rathore]
+Made with ❤️ by Naman Rathore
 
